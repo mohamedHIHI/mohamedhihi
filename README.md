@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+MOHAMED+El+HIHI;Full-Stack+Developer;Cybersecurity+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+MOHAMED+El+HIHI;Full-Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </p>
 
@@ -136,7 +136,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YoussefElAmrani&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=MOHAMEDHIHI&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
   <img src="https://img.shields.io/github/followers/YoussefElAmrani?label=Followers&style=social" />
 </p>
 
