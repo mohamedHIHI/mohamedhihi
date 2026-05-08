@@ -86,15 +86,16 @@ Je cherche à progresser vers :
 ---
 
 ## 📬 Contact
-
 <p align="center">
-  <a href="linkedin.com/in/mohamed-hihi-4826523b2" target="_blank">
+  <a href="https://linkedin.com/in/mohamed-hihi-4826523b2" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="mailto:mohamedhihi361@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="my-portfolio-khaki-pi-90.vercel.app " target="_blank">
+
+  <a href="https://my-portfolio-khaki-pi-90.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
