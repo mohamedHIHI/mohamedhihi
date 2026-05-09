@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+MOHAMED+El+HIHI;Developement+Digital;Site+Web;Front-end+&+back-end" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+MOHAMED+El+HIHI;Developement+Digital;Site+Web;Front-end+&+back-end" />
   </a>
 </p>
 
@@ -27,86 +27,91 @@ Mon objectif est de devenir développeur full-stack capable de construire des ap
 ## 🛠️ Compétences actuelles
 
 **Frontend**
-
-* HTML / CSS
-* JavaScript (bases)
-* Python / POO
+- HTML / CSS  
+- JavaScript (bases)  
+- Python / POO  
 
 **Backend**
-
-* PHP (bases)
+- PHP (bases)
 
 **Bases de données**
-
-* MYSQL / SQLite
+- MYSQL / SQLite  
 
 **Outils**
+- Git / GitHub  
+- VS Code / PyCharm  
 
-* Git / GitHub
-* VS Code / pycharm
+---
+
+<h3 align="center">Tech Stack</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,py,arduino,c,discord,gmail,instagram,linkedin,pycharm,vscode,windows,github&theme=dark" />
+</p>
+
+---
+
+<h3 align="center">GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MOHAMED-HIHI&theme=tokyonight" />
+</p>
+
+---
+
+<h3 align="center">Productive Time</h3>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MOHAMED-HIHI&theme=tokyonight&utcOffset=1" />
+</p>
 
 ---
 
 ## 🚀 Projets
 
 ### 🌐 Portfolio personnel
-
-Site web personnel pour présenter mon profil et mes projets.
-
-🔗 [https://my-portfolio-khaki-pi-90.vercel.app/](https://my-portfolio-khaki-pi-90.vercel.app/)
+🔗 https://my-portfolio-khaki-pi-90.vercel.app/
 
 ### 💡 Projets d’apprentissage
+Petits projets de pratique.
 
-Petits projets de pratique pour renforcer mes compétences en logique, JavaScript et développement web.
-
-### 🎮 Initiation au Game Dev
-
-Expérimentation avec la programmation de jeux simples pour comprendre la logique des systèmes interactifs.
+### 🎮 Game Dev
+Expériences 
 
 ---
 
 ## 📚 Ce que j’apprends actuellement
-
-* JavaScript avancé
-* Structures de données et algorithmes
-* Backend avec Node.js
-* Bases des API REST
-* Amélioration de la logique de programmation
+- JavaScript avancé  
+- Structures de données  
+- Node.js  
+- API REST  
 
 ---
 
 ## 🎯 Objectif professionnel
-
-Je cherche à progresser vers :
-
-* Stage en développement web
-* Projets pratiques en équipe
-* Opportunités d’apprentissage en entreprise
+- Stage  
+- Projets en équipe  
+- Développement web full-stack  
 
 ---
 
 ## 📬 Contact
+
 <p align="center">
-  <a href="https://linkedin.com/in/mohamed-hihi-4826523b2" target="_blank">
+  <a href="https://linkedin.com/in/mohamed-hihi-4826523b2">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="mailto:mohamedhihi361@gmail.com" target="_blank">
+  <a href="mailto:mohamedhihi361@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://my-portfolio-khaki-pi-90.vercel.app" target="_blank">
+  <a href="https://my-portfolio-khaki-pi-90.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
----
-
-## ⚠️ Note
-
-Ce profil reflète un parcours en apprentissage. Les projets évoluent progressivement avec l’expérience et la pratique.
 
 ---
 
 ## 💡 Philosophie
-
-Apprendre en construisant. Comprendre avant d’optimiser. Améliorer chaque projet étape par étape.
+Apprendre en construisant. 
