@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A9FE&center=true&vCenter=true&width=500&lines=I+am+Aymen+El+yaakoubi;technicien+Specialisée;en+develepement+digital;Robotique+web+site" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A9FE&center=true&vCenter=true&width=500&lines=I+MOHAMED+El+HIHI;technicien+Specialisée;en+develepement+digital;" alt="Typing SVG" />
   </a>
 </p>
 
@@ -46,10 +46,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aymen5285356&theme=tokyonight" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohamedHIHI=tokyonight" />
       </td>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aymen5285356&theme=tokyonight&utcOffset=0" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohamedHIHI=tokyonight&utcOffset=0" />
       </td>
     </tr>
   </table>
@@ -63,13 +63,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aymane-ya%C3%A2koubi-9907133aa" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamed-hihi-4826523b2/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:aymaneyaakoubi528@gmail.com" target="_blank">
+  <a href="mailto:mohamedhihi361@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://my-portfolio-beta-eight-27.vercel.app" target="_blank">
+  <a href="https://my-portfolio-khaki-pi-90.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
