@@ -42,18 +42,7 @@
 </p>
 
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohamedHIHI=tokyonight" />
-      </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohamedHIHI=tokyonight&utcOffset=0" />
-      </td>
-    </tr>
-  </table>
-</div>
+
 ---
 
 <p align="center">
