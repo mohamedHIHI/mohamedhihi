@@ -44,13 +44,6 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3V3NzE2aWxmNHNkMjlrNWtzZDcxOWJyMHF2bzhpbGJobmp3ZGNzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1469bm1PiYJSo/giphy.gif" width="350">
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&width=200&size=35&lines=YO">
-</p>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&width=1000&height=120&lines=HI+I'M+MOHAMED+EL+HAIRCHE+%3C%2F%3E;WELCOME+TO+MY+PROFILE;DIGITAL+DEVELOPMENT+STUDENT" />
-
-</p>
-<p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3dsa2M5MDN4a2cxZzltNTQyNnYyaWNraDdubWkwZW5uNjlsZTJxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MYI6NK4JOGpOzOriEg/giphy.gif" width="300"/>
 </p>
 <p align="center">
@@ -65,7 +58,7 @@
 - ✦︎  🌱 Learning React, PHP & Backend  
 - ✦︎ ⚡ I build modern & creative websites
 - ✦︎ 🌍  I'm based in The Moon 🌚<br>
-- ✦︎ ✉️  You can contact me at mohamedelhairche2007@gmail.com<br>
+- ✦︎ ✉️  You can contact me at mohamedhihi361@gmail.com<br>
 - ✦︎ 🚀  I'm currently working on my own project <br>
 - ✦︎ 🧠  I'm learning Swift / Flutter and some other languages 💪🏼<br>
 <br>
