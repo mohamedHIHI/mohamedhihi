@@ -57,12 +57,6 @@
 ---
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=red&center=true&vCenter=true&width=500&lines=Connect+with+me" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/mohamed-hihi-4826523b2/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
