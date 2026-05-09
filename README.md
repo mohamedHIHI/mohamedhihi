@@ -132,7 +132,7 @@
 ## 🌐 Featured Projects
 
 ### 💻 Project 1 – Portfolio Website
-🔗 https://mohamedHIHI-dev.github.io/Portfolio-\portfolio-khaki-pi-90.vercel.app/ <br>
+🔗 https://github.com/mohamedHIHI-dev.github.io/Portfolio-\portfolio.vercel.app/ <br>
 ✨ Modern UI / Responsive / Fast  
 
 <p align="center">
@@ -152,7 +152,7 @@
 ---
 
 ### 📱 Project 3 – Drone-Autonome
-🔗 https://github.com/mohamedHIHI-Dev/Drone-Autonome <br>
+🔗 https://github.com/mohamedHIHI/-Dev/Drone-Autonome <br>
 🚀 Clean Design + Smooth UX  
 
 <p align="center">
