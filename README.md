@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A9FE&center=true&vCenter=true&width=500&lines=I+MOHAMED+El+HIHI;technicien+Specialisée;en+develepement+digital;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A9FE&center=true&vCenter=true&width=500&lines=I+am+MOHAMED+El+HIHI;Technicien+Specialisée;En+develepement+digital;" alt="Typing SVG" />
   </a>
 </p>
 
@@ -35,18 +35,6 @@
      <p align="center">
 ---
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=red&center=true&vCenter=true&width=500&lines=Github+analytics" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3dsa2M5MDN4a2cxZzltNTQyNnYyaWNraDdubWkwZW5uNjlsZTJxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MYI6NK4JOGpOzOriEg/giphy.gif" width="300"/>
-</p>
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTBhOTdrdmR1aXJ2YmEzZHk4MTFjeGxsNWRqNHRhZXBsYWdmeXVnMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hrLmVMZR8sXUdn9k3r/giphy.gif" width="300"/>
-</p>
 
 ## 🧑‍💻 About Me
 
@@ -65,34 +53,6 @@
 </a>
 
 ---
-
-## 🎥 Coding Vibes
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="320"/>
-  
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGl2cWowbTZud2I3ZTZodDVrMHoybXh0Z3BzMDcyeTk1cnp2OTJ4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HCevnBRJE6Z6n2VqlG/giphy.gif" width="210"/>
-</p>
-
----
-
-## 🛠️ Tech Stack ⚡ 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Kawtar-Elg/KAWTAR-Elg/main/coding-typing.gif" width="350"/>
-</p>
-
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,py,arduino,c,discord,gmail,instagram,linkedin,pycharm,vscode,windows,=dark" />
-</p>
-     <p align="center">
-       
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDliOTl1OWgzeGxybXV3Mmh1dW9xcXJud2hodmNleHQzMWVpamZ5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cn2noc6qR0HjAfVzmn/giphy.gif" width="300" />
-</p>
-
-
----
 <h2 align="center">🧠 Soft Skills</h2>
 
 <p align="center">
@@ -106,10 +66,6 @@
   <img src="https://img.shields.io/badge/Creativity-020617?style=for-the-badge&logo=adobe&logoColor=f472b6"/>
   <img src="https://img.shields.io/badge/Time%20Management-0f172a?style=for-the-badge&logo=clockify&logoColor=facc15"/>
   <img src="https://img.shields.io/badge/Adaptability-020617?style=for-the-badge&logo=dependabot&logoColor=fb7185"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mohamed22-Dev&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
